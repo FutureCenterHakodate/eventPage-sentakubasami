@@ -1,0 +1,9 @@
+"画像はページ内でロードされてほしい順番で、以下の形式で保存"
+Please save images in the following format
+to the order you want them loaded in the page
+001.*
+002.*
+003.*
+:
+:
+:
