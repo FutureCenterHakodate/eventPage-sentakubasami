@@ -85,7 +85,7 @@
 
 		<p>TEL:0138-26-6000</p>
 		<p>Eメール：info@hakodate-miraiproject.jp</p>
-		<p>WEBサイト：http://hakodate-miraiproject.jp</p>
+		<p>WEBサイト：<a href="http://hakodate-miraiproject.jp">http://hakodate-miraiproject.jp</a></p>
 	</div>
 	<div id="footer" class="container"></div>
 <!-- 要素ここまで -->
