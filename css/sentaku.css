@@ -7,6 +7,7 @@ Author: ryu-g,Yayoi
 Author URI:
 */
 
+<<<<<<< HEAD
 /*web font を指定する*/
 
 /* 新しいfont-familyを定義
@@ -20,6 +21,20 @@ h1 {
   font-family: '名前';
 } */
 
+=======
+div.container{
+	width: 900px;
+	margin: 10px auto;
+	text-align: center;
+}
+
+div.access img{
+	display: block;
+	margin: 0 auto;
+}
+
+/*ウェブフォント：Rounded M＋の読み込みと指定*/
+>>>>>>> 9ada57d2f00b02b77064ff46e1cc6e7cf7ce7fa2
 @font-face{
   font-family: 'mplus-1p-regular';
   src: url('http://mplus-webfonts.sourceforge.jp/mplus-1p-regular.eot');
@@ -77,12 +92,18 @@ small{
 }
 
 /*ハイパーリンクの色指定*/
-a:link { color: #ff8000; }/* … 未訪問のリンク*/
-a:visited { color: #ff8000; } /*… 訪問済みのリンク*/
+a:link { color: ##ff7f00; }/* … 未訪問のリンク*/
+a:visited { color: ##ff7f00; } /*… 訪問済みのリンク*/
 a:hover { color: #ffba00; }/* … ポイント時のリンク*/
 a:active { color: #ffba00; }/*選択中のリンク*/
 
+header{
+  background-color: #ff7f00;
+  width:100%;
+  height:45px;
+}
 
+<<<<<<< HEAD
 div.container{
 	width: 900px;
 	margin: 10px auto;
@@ -115,4 +136,10 @@ div#access {
 }
 div#contact{
 	text-align: center;
+=======
+footer{
+  background-color: #ff7f00;
+  width: 100%;
+  height:25px;
+>>>>>>> 9ada57d2f00b02b77064ff46e1cc6e7cf7ce7fa2
 }
