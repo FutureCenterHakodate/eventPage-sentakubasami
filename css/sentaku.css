@@ -47,12 +47,13 @@ p { font-family: 'mplus-1p-regular', serif; }
 
 /*メニュータイトル*/
 h1{
+	display: inline-block;
   font-family:'mplus-1p-regular';
   font-size:20px;
-  font-color:#333333;
+  color:#333333;
   text-align: center;
   width: 120px;
-  height:20;
+  height:20px;
    border: 2px solid #82636b;
     border-radius: 240px 15px 185px 15px / 15px 200px 15px 185px;
     margin: 10px 0;
