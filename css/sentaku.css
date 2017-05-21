@@ -7,7 +7,6 @@ Author: ryu-g,Yayoi
 Author URI:
 */
 
-<<<<<<< HEAD
 /*web font を指定する*/
 
 /* 新しいfont-familyを定義
@@ -21,7 +20,6 @@ h1 {
   font-family: '名前';
 } */
 
-=======
 div.container{
 	width: 900px;
 	margin: 10px auto;
@@ -34,7 +32,6 @@ div.access img{
 }
 
 /*ウェブフォント：Rounded M＋の読み込みと指定*/
->>>>>>> 9ada57d2f00b02b77064ff46e1cc6e7cf7ce7fa2
 @font-face{
   font-family: 'mplus-1p-regular';
   src: url('http://mplus-webfonts.sourceforge.jp/mplus-1p-regular.eot');
