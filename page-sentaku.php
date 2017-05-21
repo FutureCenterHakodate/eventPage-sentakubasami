@@ -8,33 +8,54 @@
 	<link rel="icon" href=<?php echo get_template_directory_uri();?>/img/favicon.ico>
 </head>
 
-<div id="head">
-<img src="" alt="こどもXせんたくばさみ10kコ+テント6つ=OOの空間">
+<div id="head" class="container">
+	<img src="" alt="こどもXせんたくばさみ10kコ+テント6つ=OOの空間">
 </div>
-<div id="holdtime">
+
+<div id="holdtime" class="container">
 	<img src="" alt="ふせん">
 </div>
-<div id="info" >
-<h2>会場</h2>
-<p>XXXXXXXXXXXXXXXXXXXXXX</p>
 
-<h2>料金</h2>
-<p>XXXXXXXXXXXXXXXXXXXXXX</p>
+<div id="info" class="container">
+	<h2>会場</h2>
+	<p>北海道函館市若松町20番1号</p>
+	<p>キラリス函館3F はこだてみらい館</p>
 
-<h2>開催時間</h2>
-<p>XXXXXXXXXXXXXXXXXXXXXX</p>
+	<h2>料金</h2>
+	<p>大人：600円 中高生：300円 未就学児：無料</p>
+	<p>※3ヶ月、６ヶ月定期券有</p>
+	<p>※２巻共通券有(20名以上の団体：大人480円　中高生：240円)</p>
 
-<h2>休館日</h2>
-<p>XXXXXXXXXXXXXXXXXXXXXX</p>
+	<h2>開館時間</h2>
+	<p>午前10時〜午後８時</p>
+
+	<h2>休館日</h2>
+	<p>毎月第２水曜日</p>
+	<p>※期間中休館は6月14日(水),7月12日(水)です。</p>
 </div>
-<div class="about"></div>
+<div id="about" class="container"></div>
 
-<div class="event"></div>
-<div class="access"></div>
-<div class="contact"></div>
-<div class="footer"></div>
+<div id="event" class="container"></div>
+<div id="access" class="container">
+	バス
+	「函館駅前」停留所から徒歩1分
+	「棒二森屋前」停留所から徒歩1分
+
+	市電
+	「函館駅前」電停から徒歩1分
+
+	提携駐車場
+	199台(最大)　タイムズ函館駅前
+	<img src="http://placehold.jp/600x400.png" alt="">
+</div>
+<div id="contact" class="container">
+	TEL:0138-26-6000
+	Eメール：info@hakodate-miraiproject.jp
+	WEBサイト：http://hakodate-miraiproject.jp
+</div>
+<div id="footer" class="container"></div>
 
 <footer>
-<small>&copy;2017 Hakodate Mirai Project</small>
+	<small>&copy;2017 Hakodate Mirai Project</small>
 </footer>
 </html>
