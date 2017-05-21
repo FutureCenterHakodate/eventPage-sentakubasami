@@ -87,6 +87,7 @@ small{
   text-align: center;
 }
 
+/*ハイパーリンクの色指定*/
 a:link { color: #0000ff; }/* … 未訪問のリンク*/
 a:visited { color: #000080; } /*… 訪問済みのリンク*/
 a:hover { color: #ff0000; }/* … ポイント時のリンク*/
