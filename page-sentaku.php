@@ -4,7 +4,7 @@
 	<meta charset="UTF-8">
 	<title><?php wp_title("はこだてみらい館 |",true);?></title>
 	<link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/3.18.1/build/cssreset/cssreset-min.css">
-	<link rel="stylesheet" type="text/css" href=<?php echo get_template_directory_uri();?>/css/special.css>
+	<link rel="stylesheet" type="text/css" href=<?php echo get_template_directory_uri();?>/css/sentaku.css>
 	<link rel="icon" href=<?php echo get_template_directory_uri();?>/img/favicon.ico>
 </head>
 
@@ -52,17 +52,7 @@
 
 </div>
 <div id="access" class="container">
-<h2>アクセス</h2>
-	バス
-	「函館駅前」停留所から徒歩1分
-	「棒二森屋前」停留所から徒歩1分
-
-	市電
-	「函館駅前」電停から徒歩1分
-
-	提携駐車場
-	199台(最大)　タイムズ函館駅前
-	<img src="http://placehold.jp/600x400.png" alt="">
+	<img class="map" src="http://placehold.jp/600x400.png" alt="">
 </div>
 <div id="contact" class="container">
 <h2>お問い合わせ</h2>
