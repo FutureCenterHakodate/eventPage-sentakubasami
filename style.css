@@ -12,10 +12,18 @@ div.container{
 	margin: 10px auto;
 }
 
-<head>
-  <style type="text/css">
-    p  {color: #333333}
-  </style>
+/*web font を指定する*/
+
+/* 新しいfont-familyを定義
+@font-face {
+  font-family: '名前';
+  src: url('フォントファイルのパス') format('フォーマット名');
+}
+ 
+// 定義したfont-familyを指定
+h1 {
+  font-family: '名前'; 
+} */
 
 @font-face{ 
   font-family: 'mplus-1p-regular';
@@ -25,6 +33,31 @@ div.container{
        url('http://mplus-webfonts.sourceforge.jp/mplus-1p-regular.ttf') format('truetype');
 }
 
-p { font-family: Gentium, serif; }
+p { font-family: 'mplus-1p-regular', serif; }
+
+h1{
+  font-family:'mplus-1p-regular';
+  font-size:22px;
+  font-color:#333333;
+}
 
 
+h2{
+  font-family:'mplus-1p-regular';
+  font-size:16px;
+  font-color:#333333
+}
+
+
+h3{
+  font-family:'mplus-1p-regular';
+  font-size:12px;
+  font-color:#333333
+}
+
+
+h4{
+  font-family:'mplus-1p-regular';
+  font-size:10px;
+  font-color:#333333
+}
