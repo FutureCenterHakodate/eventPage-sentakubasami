@@ -13,8 +13,9 @@ div.container{
 
 }
 
-img.map{
-	text-align: center;
+div.access img{
+	display: block;
+	margin: 0 auto;
 }
 
 

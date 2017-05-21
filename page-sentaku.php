@@ -52,7 +52,7 @@
 
 </div>
 <div id="access" class="container">
-	<img class="map" src="http://placehold.jp/600x400.png" alt="">
+	<img class="map" src="http://placehold.jp/800x400.png" alt="">
 </div>
 <div id="contact" class="container">
 <h2>お問い合わせ</h2>
