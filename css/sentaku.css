@@ -84,11 +84,11 @@ a:active { color: #ffba00; }/*選択中のリンク*/
 header{
   background-color: #ff7f00;
   width:100%;
-  height:15px;
+  height:45px;
 }
 
 footer{
   background-color: #ff7f00;
   width: 100%;
-  height:10px;
+  height:25px;
 }
