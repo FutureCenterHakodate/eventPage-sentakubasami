@@ -82,12 +82,6 @@ h4{
   font-color:#333333;
 }
 
-/*フッター部分テキストセンタリング*/
-small{
-   display:inline-block;
-  font-size: 10px;
-  text-align: center;
-}
 
 /*ハイパーリンクの色指定*/
 a:link { color: ##ff7f00; }/* … 未訪問のリンク*/
@@ -139,5 +133,10 @@ footer{
   background-color: #ff7f00;
   width: 100%;
   height:25px;
-
+}
+/*フッター部分テキストセンタリング*/
+small{
+   display:inline-block;
+  font-size: 10px;
+  text-align: center;
 }
