@@ -10,7 +10,7 @@ Author URI:
 div.container{
 	width: 900px;
 	margin: 10px auto;
-
+	text-align: center;
 }
 
 div.access img{
