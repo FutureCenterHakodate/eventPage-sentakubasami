@@ -88,7 +88,7 @@ a:link { color: #ff7f00; }/* … 未訪問のリンク*/
 a:visited { color: #ff7f00; } /*… 訪問済みのリンク*/
 a:hover { color: #ffba00; }/* … ポイント時のリンク*/
 a:active { color: #ffba00; }/*選択中のリンク*/
-
+a{text-decoration: none;}
 header{
   background-color: #ff7f00;
   width:100%;
