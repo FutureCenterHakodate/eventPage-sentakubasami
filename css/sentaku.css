@@ -76,9 +76,19 @@ small{
 }
 
 /*ハイパーリンクの色指定*/
-a:link { color: #ff8000; }/* … 未訪問のリンク*/
-a:visited { color: #ff8000; } /*… 訪問済みのリンク*/
+a:link { color: ##ff7f00; }/* … 未訪問のリンク*/
+a:visited { color: ##ff7f00; } /*… 訪問済みのリンク*/
 a:hover { color: #ffba00; }/* … ポイント時のリンク*/
 a:active { color: #ffba00; }/*選択中のリンク*/
 
+header{
+  background-color: #ff7f00;
+  width:100%;
+  height:15px;
+}
 
+footer{
+  background-color: #ff7f00;
+  width: 100%;
+  height:10px;
+}
