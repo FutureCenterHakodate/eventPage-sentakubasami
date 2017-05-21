@@ -101,7 +101,6 @@ header{
   height:45px;
 }
 
-<<<<<<< HEAD
 div.container{
 	width: 900px;
 	margin: 10px auto;
@@ -134,10 +133,11 @@ div#access {
 }
 div#contact{
 	text-align: center;
-=======
+}
+
 footer{
   background-color: #ff7f00;
   width: 100%;
   height:25px;
->>>>>>> 9ada57d2f00b02b77064ff46e1cc6e7cf7ce7fa2
+
 }
