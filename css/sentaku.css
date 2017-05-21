@@ -136,7 +136,10 @@ footer{
 }
 /*フッター部分テキストセンタリング*/
 small{
-   display:inline-block;
-  font-size: 10px;
-  text-align: center;
+	color: #fff;
+	display:inline-block;
+	font-size: 10px;
+	text-align: center;
+	width: 100%;
+	margin: 0 auto;
 }
