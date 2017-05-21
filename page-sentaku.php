@@ -58,6 +58,9 @@
 	</div>
 </div>
 <div id="access" class="container">
+<div class="heading">
+	<h1>アクセス</h1>
+</div>
 	<img class="map" src="http://placehold.jp/800x400.png" alt="">
 </div>
 <div id="contact" class="container">
