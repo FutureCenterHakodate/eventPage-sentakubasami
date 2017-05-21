@@ -11,3 +11,20 @@ div.container{
 	width: 900px;
 	margin: 10px auto;
 }
+
+<head>
+  <style type="text/css">
+    p  {color: #333333}
+  </style>
+
+@font-face{ 
+  font-family: 'mplus-1p-regular';
+  src: url('http://mplus-webfonts.sourceforge.jp/mplus-1p-regular.eot');
+  src: url('http://mplus-webfonts.sourceforge.jp/mplus-1p-regular.eot?#iefix') format('embedded-opentype'),
+       url('http://mplus-webfonts.sourceforge.jp/mplus-1p-regular.woff') format('woff'),
+       url('http://mplus-webfonts.sourceforge.jp/mplus-1p-regular.ttf') format('truetype');
+}
+
+p { font-family: Gentium, serif; }
+
+
