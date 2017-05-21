@@ -71,6 +71,7 @@ h4{
 
 /*フッター部分テキストセンタリング*/
 small{
+   display:inline-block;
   font-size: 10px;
   text-align: center;
 }
