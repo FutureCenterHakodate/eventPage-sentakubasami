@@ -7,17 +7,6 @@ Author: ryu-g,Yayoi
 Author URI:
 */
 
-div.container{
-	width: 900px;
-	margin: 10px auto;
-	text-align: center;
-}
-
-div.access img{
-	display: block;
-	margin: 0 auto;
-}
-
 /*web font を指定する*/
 
 /* 新しいfont-familyを定義
@@ -94,3 +83,36 @@ a:hover { color: #ffba00; }/* … ポイント時のリンク*/
 a:active { color: #ffba00; }/*選択中のリンク*/
 
 
+div.container{
+	width: 900px;
+	margin: 10px auto;
+}
+
+div#about{
+	text-align: center;
+}
+div#info{
+width: 400px;
+}
+table{
+	display: inline-block;
+	margin:0 auto;
+}
+tr{
+	margin-bottom: 10px;
+}
+td.row{
+	margin: 0 5px;
+}
+
+div#event{
+	text-align: center;
+}
+div#access {
+	text-align: center;
+	display: block;
+	margin: 0 auto;
+}
+div#contact{
+	text-align: center;
+}
