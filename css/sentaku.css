@@ -8,7 +8,6 @@ Author URI:
 */
 
 div.container{
-<<<<<<< HEAD
 	width: 900px;
 	margin: 10px auto;
 
@@ -17,10 +16,6 @@ div.container{
 div.access img{
 	display: block;
 	margin: 0 auto;
-=======
-  width: 900px;
-  margin: 10px auto;
->>>>>>> 70072f6c4b95f4fb3ca971479f6d0863c44b50cf
 }
 
 /*web font を指定する*/
@@ -30,13 +25,13 @@ div.access img{
   font-family: '名前';
   src: url('フォントファイルのパス') format('フォーマット名');
 }
- 
+
 // 定義したfont-familyを指定
 h1 {
-  font-family: '名前'; 
+  font-family: '名前';
 } */
 
-@font-face{ 
+@font-face{
   font-family: 'mplus-1p-regular';
   src: url('http://mplus-webfonts.sourceforge.jp/mplus-1p-regular.eot');
   src: url('http://mplus-webfonts.sourceforge.jp/mplus-1p-regular.eot?#iefix') format('embedded-opentype'),
