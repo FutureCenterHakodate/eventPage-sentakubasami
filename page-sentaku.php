@@ -8,15 +8,14 @@
 	<link rel="icon" href=<?php echo get_template_directory_uri();?>/img/favicon.ico>
 </head>
 
-<header>
-	<!-- ここにヘッダー用画像 -->
-	<img src=<?php echo get_template_directory_uri();?>/img/001.png width="100px" height="auto" alt="">
+<header >
+<img src=<?php echo get_template_directory_uri();?>/img/001.png alt="head" >
 </header>
 
 <!-- 要素ここから -->
 
 <div id="head" class="container">
-	<img src="http://placehold.jp/20/ece8fc/545454/900x400.png?text=mainvisual" alt="mainvisual">
+	<img class="logo" src="http://placehold.jp/20/ece8fc/545454/900x400.png?text=mainvisual" alt="mainvisual">
 </div>
 <!-- ローカルの画像テスト用予備
 <div id="head" class="container">
@@ -28,7 +27,6 @@
 </div>
 
 <div class="container">
-
 </div>
 
 <div id="info" >
