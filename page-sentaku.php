@@ -58,10 +58,10 @@
 	</table>
 </div>
 <div id="about" class="container">
+	<img src="http://placehold.jp/30/cf2819/ffffff/900x500.png" alt="">
 	<div class="heading">
 		<h1>企画概要</h1>
 	</div>
-		<img src="http://placehold.jp/ffd900/ff5e00/900x500.png?text=%E3%81%93%E3%81%AE%E7%94%BB%E5%83%8F%E3%81%AF%E4%BC%81%E7%94%BB%E6%A6%82%E8%A6%81%E3%81%AE%E8%83%8C%E6%99%AF%E3%81%AB%E3%81%AA%E3%82%8A%E3%81%BE%E3%81%99" alt="">
 </div>
 <div id="event" class="container">
 	<div class="heading"></div>
