@@ -7,16 +7,16 @@ Author: ryu-g,Yayoi
 Author URI:
 */
 
-/*web font ã‚’æŒ‡å®šã™ã‚‹*/
-/* æ–°ã—ã„font-familyã‚’å®šç¾©
+/*web font ¤òÖ¸¶¨¤¹¤ë*/
+/* ĞÂ¤·¤¤font-family¤ò¶¨Áx
 @font-face {
-  font-family: 'åå‰';
-  src: url('ãƒ•ã‚©ãƒ³ãƒˆãƒ•ã‚¡ã‚¤ãƒ«ã®ãƒ‘ã‚¹') format('ãƒ•ã‚©ãƒ¼ãƒãƒƒãƒˆå');
+  font-family: 'ÃûÇ°';
+  src: url('¥Õ¥©¥ó¥È¥Õ¥¡¥¤¥ë¤Î¥Ñ¥¹') format('¥Õ¥©©`¥Ş¥Ã¥ÈÃû');
 }
 
-// å®šç¾©ã—ãŸfont-familyã‚’æŒ‡å®š
+// ¶¨Áx¤·¤¿font-family¤òÖ¸¶¨
 h1 {
-  font-family: 'åå‰';
+  font-family: 'ÃûÇ°';
 } */
 
 div.container{
@@ -26,7 +26,7 @@ div.container{
 	text-align: center;
 }
 
-/*ã‚¦ã‚§ãƒ–ãƒ•ã‚©ãƒ³ãƒˆï¼šRounded Mï¼‹ã®èª­ã¿è¾¼ã¿ã¨æŒ‡å®š*/
+/*¥¦¥§¥Ö¥Õ¥©¥ó¥È£ºRounded M£«¤ÎÕi¤ßŞz¤ß¤ÈÖ¸¶¨*/
 @font-face{
   font-family: 'mplus-1p-regular';
   src: url('http://mplus-webfonts.sourceforge.jp/mplus-1p-regular.eot');
@@ -45,7 +45,7 @@ p {
   font-family:'mplus-1p-regular';
 }
 
-/*ãƒ¡ãƒ‹ãƒ¥ãƒ¼ã‚¿ã‚¤ãƒˆãƒ«*/
+/*¥á¥Ë¥å©`¥¿¥¤¥È¥ë*/
 h1{
 	display: inline-block;
   font-family:'mplus-1p-regular';
@@ -61,21 +61,21 @@ h1{
 }
 
 
-/*ãƒ†ã‚­ã‚¹ãƒˆéƒ¨åˆ†ã§ã‚‚å¤§ãã„ã‚„ã¤ï¼šã‚¤ãƒ™ãƒ³ãƒˆ1è¡Œç›®ã€è¬›å¸«åãªã©*/
+/*¥Æ¥­¥¹¥È²¿·Ö¤Ç¤â´ó¤­¤¤¤ä¤Ä£º¥¤¥Ù¥ó¥È1ĞĞÄ¿¡¢ÖvŸÃû¤Ê¤É*/
 h2{
   font-family:'mplus-1p-regular';
   font-size:16px;
   font-color:#333333;
 }
 
-/*æ™‚é–“ã€æ—¥ã«ã¡ãªã©ã„ã‚ã„ã‚å°ã•ã‚ã®ã‚„ã¤*/
+/*•rég¡¢ÈÕ¤Ë¤Á¤Ê¤É¤¤¤í¤¤¤íĞ¡¤µ¤á¤Î¤ä¤Ä*/
 h3{
   font-family:'mplus-1p-regular';
   font-size:14px;
   font-color:#333333;
 }
 
-/*ã‚‚ã£ã¨å°ã•ã„ã‚„ã¤ã€€ä½¿ã†äºˆå®šã¯ã‚ã‚“ã¾ã‚Šãªã„*/
+/*¤â¤Ã¤ÈĞ¡¤µ¤¤¤ä¤Ä¡¡Ê¹¤¦Óè¶¨¤Ï¤¢¤ó¤Ş¤ê¤Ê¤¤*/
 h4{
   font-family:'mplus-1p-regular';
   font-size:10px;
@@ -83,11 +83,11 @@ h4{
 }
 
 
-/*ãƒã‚¤ãƒ‘ãƒ¼ãƒªãƒ³ã‚¯ã®è‰²æŒ‡å®š*/
-a:link { color: #ff7f00; }/* â€¦ æœªè¨ªå•ã®ãƒªãƒ³ã‚¯*/
-a:visited { color: #ff7f00; } /*â€¦ è¨ªå•æ¸ˆã¿ã®ãƒªãƒ³ã‚¯*/
-a:hover { color: #ffba00; }/* â€¦ ãƒã‚¤ãƒ³ãƒˆæ™‚ã®ãƒªãƒ³ã‚¯*/
-a:active { color: #ffba00; }/*é¸æŠä¸­ã®ãƒªãƒ³ã‚¯*/
+/*¥Ï¥¤¥Ñ©`¥ê¥ó¥¯¤ÎÉ«Ö¸¶¨*/
+a:link { color: #ff7f00; }/* ¡­ Î´ÔL†–¤Î¥ê¥ó¥¯*/
+a:visited { color: #ff7f00; } /*¡­ ÔL†–œg¤ß¤Î¥ê¥ó¥¯*/
+a:hover { color: #ffba00; }/* ¡­ ¥İ¥¤¥ó¥È•r¤Î¥ê¥ó¥¯*/
+a:active { color: #ffba00; }/*ßx’kÖĞ¤Î¥ê¥ó¥¯*/
 a{text-decoration: none;}
 header{
   background-color: #ff7f00;
@@ -99,51 +99,64 @@ header > img{
 	width:50px;
 	height: auto;
 }
-/*img.logo{
-	position: absolute;
+
+div#head{
+	position: relative;
+	width: 900px;
 }
-*/
-/*ã‚¤ãƒ™ãƒ³ãƒˆæ¦‚è¦*/
+
+div#holdtime{
+	position: absolute;
+	right: -250px;
+	top:400px;
+}
+
+/*¥¤¥Ù¥ó¥È¸ÅÒª*/
 div#about{
 	text-align: center;
 	background-color: #ddd;
 	padding: 50px 0;
 }
-div.readAbout{
-	width: 600px;
-	margin: 0 auto;
-}
+	div.readAbout{
+		width: 600px;
+		margin: 0 auto;
+	}
+	div#about > img{
+		width: 100%;
+	}
 
-/*ä¼šå ´æƒ…å ±*/
+
+/*»áˆöÇéˆó*/
 div#info{
 	width: 100%;
 	background-color: #ddd;
 }
 	.infoTable{
 		padding: 50px 0;
-		max-width:500px;
+		max-width:600px;
 		margin: 0 auto;
 	}
 
-/*é–‹å‚¬ã‚¤ãƒ™ãƒ³ãƒˆ*/
+/*é_´ß¥¤¥Ù¥ó¥È*/
 div#event{
 	text-align: center;
 }
 
-/*ã‚ãã›ã™*/
+/*¤¢¤¯¤»¤¹*/
 div#access {
 	text-align: center;
 	display: block;
 	margin: 0 auto;
 }
 
-/*é€£çµ¡å…ˆã¯ã“ã¡ã‚‰*/
+/*ßB½jÏÈ¤Ï¤³¤Á¤é*/
 div#contact{
 	width: 100%;
 }
 	div.accessTable{
 		width:50%;
-		margin: 0 auto;
+		margin: 50px auto;
+
 	}
 
 	div.block{
@@ -166,7 +179,7 @@ footer{
   width: 100%;
   height:40px;
 }
-/*ãƒ•ãƒƒã‚¿ãƒ¼éƒ¨åˆ†ãƒ†ã‚­ã‚¹ãƒˆã‚»ãƒ³ã‚¿ãƒªãƒ³ã‚°*/
+/*¥Õ¥Ã¥¿©`²¿·Ö¥Æ¥­¥¹¥È¥»¥ó¥¿¥ê¥ó¥°*/
 	small{
 		color: #fff;
 		display:inline-block;
