@@ -29,7 +29,7 @@
 <div id="info" >
 	<div class="infoBG">
 		<img src =<?php echo get_template_directory_uri();?>/img/bg.png width=100% alt="">
-
+		<div class="container">
 		<div class="infoTable">
 			<div class="block">
 				<h3>会場</h3>
@@ -47,7 +47,7 @@
 				<h3>休館日</h3>
 				<p>毎月第2水曜日<br>※期間中休館は6月14日(水),7月12日(水)です。</p>
 			</div>
-		</div>
+		</div></div>
 	</div>
 </div>
 
@@ -67,23 +67,23 @@
 </div>
 
 <div id="event" >
-<div class="container">
-	<div class="EventBG">
-		<img src= <?php echo get_template_directory_uri(); ?>/img/EventBG.png width=100% alt="">
-	<div class="EVabsolute" >
-	<div class="heading"><h1>イベント</h1></div>
-	<div class="context">
-		<h3>アーティストによる洗濯ばさみワークショップ開催！！</h3>
-		<p>①27日(土) 13:00~14:00, 15:00~16:00, 17:00~18:00の3回実施</p>
-		<p>講師：山添joseph勇 氏</p>
-		<p>参加費無料(入館料のみ),申込不要</p>
-		<p>②28日(日) 13:00~14:00 の1回実施</p>
-		<p>講師：カブ 氏</p>
-		<p>参加費無料(入館料のみ),申込不要</p>
-		<p>※そのほか、展示期間中は洗濯ばさみで遊べます。</p>
-	</div>
-	</div>
-	</div>
+	<div class="container">
+		<div class="EventBG">
+			<img src= <?php echo get_template_directory_uri(); ?>/img/EventBG.png width=100% alt="">
+			<div class="EVabsolute" >
+				<div class="heading"><h1>イベント</h1></div>
+				<div class="context">
+					<h3>アーティストによる洗濯ばさみワークショップ開催！！</h3>
+					<p>①27日(土) 13:00~14:00, 15:00~16:00, 17:00~18:00の3回実施</p>
+					<p>講師：山添joseph勇 氏</p>
+					<p>参加費無料(入館料のみ),申込不要</p>
+					<p>②28日(日) 13:00~14:00 の1回実施</p>
+					<p>講師：カブ 氏</p>
+					<p>参加費無料(入館料のみ),申込不要</p>
+					<p>※そのほか、展示期間中は洗濯ばさみで遊べます。</p>
+				</div>
+			</div>
+		</div>
 	</div>
 </div>
 
