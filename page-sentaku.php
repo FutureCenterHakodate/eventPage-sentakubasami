@@ -57,17 +57,15 @@
 <div id="about">
 	<img src=<?php echo get_template_directory_uri();?>/img/BG2.png alt="企画概要BG">
 	<div　class="container">
-	<div class="heading">
-		<h1>企画概要</h1>
-	</div>
-	<div class="readAbout">
-		<p>日本、アメリカ、イギリス、マケドニア、インド、イスラエルなどさまざまな国からあつまった『せんたくばさみ』と、キャンプ場のような『テント』のある空間でなにをする？つくる？はさむ？つるす？ならべる？あつめる？かざる？
-	</p>
-	</div>
+		<div class="heading">
+			<h1>企画概要</h1>
+		</div>
+		<div class="readAbout">
+			<p>日本、アメリカ、イギリス、マケドニア、インド、イスラエルなどさまざまな国からあつまった『せんたくばさみ』と、キャンプ場のような『テント』のある空間でなにをする？つくる？はさむ？つるす？ならべる？あつめる？かざる？
+			</p>
+		</div>
 	</div>
 </div>
-
-
 
 <div id="event" class="container">
 	<div class="heading"><h1>イベント</h1></div>
