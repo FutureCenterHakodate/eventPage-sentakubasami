@@ -106,6 +106,12 @@ header > img{
 /*イベント概要*/
 div#about{
 	text-align: center;
+	background-color: #ddd;
+	padding: 50px 0;
+}
+div.readAbout{
+	width: 600px;
+	margin: 0 auto;
 }
 
 /*会場情報*/
