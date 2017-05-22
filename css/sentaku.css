@@ -138,8 +138,8 @@ div#info{
 	.infoTable{
 		position: absolute;
 		top:150px;
-		right:0;
-		left: 0;
+		right:0px;
+		left: 0px;
 
 	}
 
