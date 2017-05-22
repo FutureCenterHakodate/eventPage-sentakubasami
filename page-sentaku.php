@@ -29,7 +29,6 @@
 <div id="info" >
 	<div class="infoBG">
 		<img src =<?php echo get_template_directory_uri();?>/img/bg.png width=100% alt="">
-		<div class="container">
 			<div class="infoTable">
 				<div class="block">
 					<h3>会場</h3>
@@ -50,7 +49,6 @@
 			</div>
 		</div>
 	</div>
-</div>
 
 
 <div id="about">
