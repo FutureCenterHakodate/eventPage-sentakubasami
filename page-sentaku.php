@@ -8,14 +8,24 @@
 	<link rel="icon" href=<?php echo get_template_directory_uri();?>/img/favicon.ico>
 </head>
 
+<<<<<<< HEAD
 <header >
 <img src=<?php echo get_template_directory_uri();?>/img/001.png alt="head" >
+=======
+<header>
+	<!-- ここにヘッダー用画像 -->
+	<img src=<?php echo get_template_directory_uri();?>/img/LogoFCH.png width="100px" height="auto" alt="">
+>>>>>>> 18db4243acc5a543b6b0af3ee27b91ca7757d80b
 </header>
 
 <!-- 要素ここから -->
 
 <div id="head" class="container">
+<<<<<<< HEAD
 	<img class="logo" src="http://placehold.jp/20/ece8fc/545454/900x400.png?text=mainvisual" alt="mainvisual">
+=======
+	<img src=<?php echo get_template_directory_uri();?>/img/TopImg.jpg alt="mainvisual">
+>>>>>>> 18db4243acc5a543b6b0af3ee27b91ca7757d80b
 </div>
 <!-- ローカルの画像テスト用予備
 <div id="head" class="container">
@@ -23,7 +33,7 @@
 </div>
 -->
 <div id="holdtime" class="container">
-	<img src="" alt="ふせん">
+	<img src=<?php echo get_template_directory_uri();?>/img/TopDate.png alt="ふせん">
 </div>
 
 <div class="container">
