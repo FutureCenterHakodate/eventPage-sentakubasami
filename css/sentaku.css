@@ -21,7 +21,8 @@ h1 {
 } */
 
 div.container{
-	width: 900px;
+	width: 100%;
+	max-width: 900px;
 	margin: 10px auto;
 	text-align: center;
 }
@@ -93,11 +94,6 @@ header{
   background-color: #ff7f00;
   width:100%;
   height:45px;
-}
-
-div.container{
-	width: 900px;
-	margin: 10px auto;
 }
 
 div#about{
