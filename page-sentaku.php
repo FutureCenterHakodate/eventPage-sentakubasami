@@ -53,14 +53,10 @@
 	</div>
 </div>
 
-<<<<<<< HEAD
-<div id="about" class="container">
-	<img src=<?php echo get_template_directory_uri();?>/img/BG2.png alt="企画概要BG">
-=======
+
 <div id="about">
+	<img src=<?php echo get_template_directory_uri();?>/img/BG2.png alt="企画概要BG">
 	<div　class="container">
-	<img src="http://placehold.jp/30/cf2819/ffffff/900x500.png" alt="">
->>>>>>> 45ca2a054a17e563be2ff3794fb1933a745f60b1
 	<div class="heading">
 		<h1>企画概要</h1>
 	</div>
