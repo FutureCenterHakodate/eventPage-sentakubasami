@@ -53,7 +53,7 @@
 
 
 <div id="about">
-	<img src=<?php echo get_template_directory_uri();?>/img/BG2.png alt="企画概要BG">
+	<img src=<?php echo get_template_directory_uri();?>/img/BG2.jpg alt="企画概要BG">
 	<div　class="container">
 		<div class="heading">
 			<h1>企画概要</h1>
