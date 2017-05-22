@@ -39,7 +39,11 @@ div.access img{
        url('http://mplus-webfonts.sourceforge.jp/mplus-1p-regular.ttf') format('truetype');
 }
 
-p { font-family: 'mplus-1p-regular', serif; }
+p { 
+  font-family: 'mplus-1p-regular', serif; 
+  font-size:14px;
+
+}
 
 *{
   font-family:'mplus-1p-regular';
@@ -103,17 +107,21 @@ div#about{
 	text-align: center;
 }
 div#info{
-width: 400px;
+width: 600px;
 }
+
 table{
 	display: inline-block;
 	margin:0 auto;
 }
+
 tr{
+  margin-right: 20px;
 	margin-bottom: 10px;
 }
+
 td.row{
-	margin: 0 5px;
+  margin: 0 5px;
 }
 
 div#event{
