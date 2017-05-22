@@ -104,12 +104,14 @@ header > img{
 div#head{
 	position: relative;
 	width: 900px;
+	height: 600px;
 }
 
 div#holdtime{
 	position: absolute;
 	right: 0px;
 	top:450px;
+	margin-bottom: 50px;
 }
 
 div#about{
@@ -130,15 +132,14 @@ div#info{
 }
 	.infoBG{
 		position: relative;
-	}
-	.infoBG img{
-		width: 100%;
+		min-width: 900px;
+		overflow: hidden;
 	}
 	.infoTable{
-		display: block;
 		position: absolute;
-		top:250px;
-		right:300px;
+		top:150px;
+		right:0;
+		left: 0;
 
 	}
 
@@ -147,6 +148,7 @@ div#event{
 }
 	div.EventBG{
 		position: relative;
+		min-width: 900px;
 	}
 
 	div.EVabsolute{
