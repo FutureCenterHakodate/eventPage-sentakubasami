@@ -31,32 +31,34 @@
 </div>
 
 <div id="info" class="container">
-	<table>
-		<tbody>
-			<tr class="row">
-				<td><h3>会場</h3></td>
-				<td><p>北海道函館市若松町20番1号<br>キラリス函館3F はこだてみらい館</p></td>
-			</tr>
-			<tr class="row">
-				<td><h3>料金</h3></td>
-				<td>
-					<p>大人：600円 中高生：300円 未就学児：無料</p>
-					<p>※3ヶ月、6ヶ月定期券有</p>
-					<p>※2館共通券有(20名以上の団体：大人480円 中高生：240円)</p>
-				</td>
-			</tr>
-			<tr class="row">
-				<td><h3>開館時間</h3></td>
-				<td><p>午前10時~午後8時</p></td>
-			</tr>
-			<tr class="row">
-				<td><h3>休館日</h3></td>
-				<td><p>毎月第2水曜日</p>
-				<p>※期間中休館は6月14日(水),7月12日(水)です。</p></td>
-			</tr>
-		</tbody>
-	</table>
+<div class="block">
+	<div><h3>会場</h3></div>
+	<div>
+		<p>北海道函館市若松町20番1号<br>
+		キラリス函館3F はこだてみらい館</p>
+	</div>
 </div>
+<div class="block">
+	<div ><h3>料金</h3></div>
+	<div>
+		<p>大人：600円 中高生：300円 未就学児：無料</p>
+		<p>※3ヶ月、6ヶ月定期券有</p>
+		<p>※2館共通券有(20名以上の団体：大人480円 中高生：240円)</p>
+	</div>
+</div>
+<div class="block">
+	<div><h3>開館時間</h3></div>
+	<div><p>午前10時~午後8時</p></div>
+</div>
+<div class="block">
+	<div><h3>休館日</h3></div>
+	<div>
+			<p>毎月第2水曜日</p>
+			<p>※期間中休館は6月14日(水),7月12日(水)です。</p>
+	</div>
+</div>
+</div>
+
 <div id="about" class="container">
 	<img src="http://placehold.jp/30/cf2819/ffffff/900x500.png" alt="">
 	<div class="heading">

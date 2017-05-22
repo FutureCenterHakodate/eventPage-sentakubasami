@@ -40,8 +40,8 @@ div.access img{
        url('http://mplus-webfonts.sourceforge.jp/mplus-1p-regular.ttf') format('truetype');
 }
 
-p { 
-  font-family: 'mplus-1p-regular', serif; 
+p {
+  font-family: 'mplus-1p-regular', serif;
   font-size:14px;
 
 }
@@ -63,6 +63,10 @@ h1{
     border-radius: 240px 15px 185px 15px / 15px 200px 15px 185px;
     margin: 10px 0;
     padding: 10px;
+}
+
+html{
+
 }
 
 /*テキスト部分でも大きいやつ：イベント1行目、講師名など*/
@@ -103,7 +107,8 @@ div#about{
 	text-align: center;
 }
 div#info{
-width: 600px;
+	margin: 0 auto;
+	text-align: left;
 }
 
 table{
@@ -112,7 +117,7 @@ table{
 }
 
 tr{
-  margin-right: 20px;
+	margin-right: 20px;
 	margin-bottom: 10px;
 }
 
@@ -130,6 +135,24 @@ div#access {
 }
 div#contact{
 	text-align: center;
+}
+div#test{
+	text-align: left;
+	color: #0000FF;
+}
+div.block{
+	width:550px;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	align-items: stretch;
+	align-content: flex-start;
+	text-align: left;
+	margin:5px auto;
+}
+div.block > div > h3 {
+	width:70px;
+	margin-right: 10px;
 }
 
 footer{
