@@ -64,7 +64,11 @@
 	</div>
 </div>
 
-<div id="event" class="container">
+<div id="event" >
+<div class="container">
+	<div class="EventBG">
+		<img src= <?php echo get_template_directory_uri(); ?>/img/EventBG.png width=100% alt="">
+	<div class="EVabsolute" >
 	<div class="heading"><h1>イベント</h1></div>
 	<div class="context">
 		<h3>アーティストによる洗濯ばさみワークショップ開催！！</h3>
@@ -75,6 +79,9 @@
 		<p>講師：カブ 氏</p>
 		<p>参加費無料(入館料のみ),申込不要</p>
 		<p>※そのほか、展示期間中は洗濯ばさみで遊べます。</p>
+	</div>
+	</div>
+	</div>
 	</div>
 </div>
 <div id="access" class="container">

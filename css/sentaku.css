@@ -24,6 +24,7 @@ div.container{
 	max-width: 900px;
 	margin: 10px auto;
 	text-align: center;
+	overflow: hidden;
 }
 
 /*?????֥ե?????Rounded M????i??z?ߤ????*/
@@ -111,7 +112,6 @@ div#holdtime{
 	top:450px;
 }
 
-/*???٥????*/
 div#about{
 	text-align: center;
 	background-color: #ddd;
@@ -124,7 +124,6 @@ div#about{
 	div#about > img{
 		width: 100%;
 	}
-
 
 
 div#info{
@@ -140,7 +139,16 @@ div#info{
 div#event{
 	text-align: center;
 }
+	div.EventBG{
+		position: relative;
+	}
 
+	div.EVabsolute{
+		position: absolute;
+		top:150px;
+		right:0;
+		left: 0;
+	}
 
 div#access {
 	text-align: center;
