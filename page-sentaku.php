@@ -20,7 +20,7 @@
 </div>
 
 <div id="holdtime" >
-	<img src=<?php echo get_template_directory_uri();?>/img/TopDate.png alt="ふせん">
+	<img src=<?php echo get_template_directory_uri();?>/img/TopDate.png  width="350px" alt="ふせん">
 </div>
 
 <div class="container">
