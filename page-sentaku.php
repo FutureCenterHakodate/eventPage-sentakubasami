@@ -28,7 +28,6 @@
 </div>
 
 <div class="container">
-
 </div>
 
 <div id="info" >
