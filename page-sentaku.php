@@ -30,24 +30,25 @@
 	<div class="infoBG">
 		<img src =<?php echo get_template_directory_uri();?>/img/bg.png width=100% alt="">
 		<div class="container">
-		<div class="infoTable">
-			<div class="block">
-				<h3>会場</h3>
-				<p>北海道函館市若松町20番1号<br>キラリス函館3F はこだてみらい館</p>
+			<div class="infoTable">
+				<div class="block">
+					<h3>会場</h3>
+					<p>北海道函館市若松町20番1号<br>キラリス函館3F はこだてみらい館</p>
+				</div>
+				<div class="block">
+					<h3>料金</h3>
+					<p>大人：600円 中高生：300円 未就学児：無料<br>※3ヶ月、6ヶ月定期券有<br>※2館共通券有(20名以上の団体：大人480円 中高生：240円)</p>
+				</div>
+				<div class="block">
+					<h3>開館時間</h3>
+					<p>午前10時~午後8時</p>
+				</div>
+				<div class="block">
+					<h3>休館日</h3>
+					<p>毎月第2水曜日<br>※期間中休館は6月14日(水),7月12日(水)です。</p>
+				</div>
 			</div>
-			<div class="block">
-				<h3>料金</h3>
-				<p>大人：600円 中高生：300円 未就学児：無料<br>※3ヶ月、6ヶ月定期券有<br>※2館共通券有(20名以上の団体：大人480円 中高生：240円)</p>
-			</div>
-			<div class="block">
-				<h3>開館時間</h3>
-				<p>午前10時~午後8時</p>
-			</div>
-			<div class="block">
-				<h3>休館日</h3>
-				<p>毎月第2水曜日<br>※期間中休館は6月14日(水),7月12日(水)です。</p>
-			</div>
-		</div></div>
+		</div>
 	</div>
 </div>
 
@@ -91,19 +92,26 @@
 <div id="access" class="container">
 	<div class="AccessBG">
 		<img class="map" src=<?php echo get_template_directory_uri();?>/img/BG3.png alt="アクセス">
-	<div class="ACabsolute">
-	<div class="heading"><h1>アクセス</h1></div>
-	<div class="context">
-		<h3>バス　「函館駅前」停留所から徒歩１分</h3>
-		<h3>　　　「棒二森屋前」停留所から徒歩１分</h3>
-		<h3>市電　「函館駅前」電停から徒歩１分</h3>
-		<h3>提携駐車場　198台(最大)　タイムズ函館駅前</h3>
-		<img class="map2" src=<?php echo get_template_directory_uri();?>/img/map.png width=80% alt="地図">
-	</div>
+		<div class="ACabsolute">
+			<div class="heading"><h1>アクセス</h1></div>
+			<div class="accessTable">
+				<div class="block">
+					<h3>バス</h3>
+					<p>「函館駅前」停留所から徒歩1分<br>「棒二森屋前」停留所から徒歩１分</p>
+				</div>
+				<div class="block">
+					<h3>市電</h3>
+					<p>「函館駅前」電停から徒歩1分</p>
+				</div>
+				<div class="block">
+					<h3>提携駐車場</h3>
+					<p>198台(最大)　タイムズ函館駅前</p>
+				</div>
+			</div>
+				<img class="map2" src=<?php echo get_template_directory_uri();?>/img/map.png width=80% alt="地図">
+			</div>
 		</div>
-
-	
-</div>	
+	</div>
 </div>
 
 

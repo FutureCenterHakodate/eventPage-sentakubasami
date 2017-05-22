@@ -164,6 +164,7 @@ div#access {
 	margin: 0 auto;
 }
 
+
 div.AccessBG{
   position:relative;
 }
@@ -184,8 +185,7 @@ div#contact{
 }
 	div.accessTable{
 		width:50%;
-		margin: 50px auto;
-
+		margin: 15px auto;
 	}
 
 	div.block{
