@@ -114,7 +114,6 @@ div#holdtime{
 
 div#about{
 	text-align: center;
-	background-color: #ddd;
 	padding: 50px 0;
 }
 	div.readAbout{
@@ -128,12 +127,19 @@ div#about{
 
 div#info{
 	width: 100%;
-	background-color: #ddd;
 }
+	.infoBG{
+		position: relative;
+	}
+	.infoBG img{
+		width: 100%;
+	}
 	.infoTable{
-		padding: 50px 0;
-		max-width:600px;
-		margin: 0 auto;
+		position: absolute;
+		top: 0
+		right:0
+		left: 0
+		bottom:0;
 	}
 
 div#event{
