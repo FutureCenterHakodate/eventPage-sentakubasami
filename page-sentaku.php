@@ -54,7 +54,7 @@
 </div>
 
 <div id="about" class="container">
-	<img src="http://placehold.jp/30/cf2819/ffffff/900x500.png" alt="">
+	<img src=<?php echo get_template_directory_uri();?>/img/BG2.png alt="企画概要BG">
 	<div class="heading">
 		<h1>企画概要</h1>
 	</div>
