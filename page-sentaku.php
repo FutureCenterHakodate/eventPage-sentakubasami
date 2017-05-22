@@ -10,13 +10,13 @@
 
 <header>
 	<!-- ここにヘッダー用画像 -->
-	<img src=<?php echo get_template_directory_uri();?>/img/001.png width="100px" height="auto" alt="">
+	<img src=<?php echo get_template_directory_uri();?>/img/LogoFCH.png width="100px" height="auto" alt="">
 </header>
 
 <!-- 要素ここから -->
 
 <div id="head" class="container">
-	<img src="http://placehold.jp/20/ece8fc/545454/900x400.png?text=mainvisual" alt="mainvisual">
+	<img src=<?php echo get_template_directory_uri();?>/img/TopImg.jpg alt="mainvisual">
 </div>
 <!-- ローカルの画像テスト用予備
 <div id="head" class="container">
@@ -24,7 +24,7 @@
 </div>
 -->
 <div id="holdtime" class="container">
-	<img src="" alt="ふせん">
+	<img src=<?php echo get_template_directory_uri();?>/img/TopDate.png alt="ふせん">
 </div>
 
 <div class="container">
