@@ -86,12 +86,27 @@
 		</div>
 	</div>
 </div>
+
+
 <div id="access" class="container">
-	<div class="heading">
-		<h1>アクセス</h1>
+	<div class="AccessBG">
+		<img class="map" src=<?php echo get_template_directory_uri();?>/img/BG3.png alt="アクセス">
+	<div class="ACabsolute">
+	<div class="heading"><h1>アクセス</h1></div>
+	<div class="context">
+		<h3>バス　「函館駅前」停留所から徒歩１分</h3>
+		<h3>　　　「棒二森屋前」停留所から徒歩１分</h3>
+		<h3>市電　「函館駅前」電停から徒歩１分</h3>
+		<h3>提携駐車場　198台(最大)　タイムズ函館駅前</h3>
+		<img class="map2" src=<?php echo get_template_directory_uri();?>/img/map.png width=80% alt="地図">
 	</div>
-	<img class="map" src=<?php echo get_template_directory_uri();?>/img/BG3.png alt="アクセス">
+		</div>
+
+	
+</div>	
 </div>
+
+
 <div id="contact" class="container">
 	<h1>お問い合わせ</h1>
 	<div class="accessTable">

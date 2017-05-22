@@ -164,6 +164,20 @@ div#access {
 	margin: 0 auto;
 }
 
+div.AccessBG{
+  position:relative;
+}
+
+div.ACabsolute{
+  position:absolute;
+  top:180px;
+  right:0;
+  left:0;
+}
+
+#map2{
+  top:20px;
+}
 
 div#contact{
 	width: 100%;
