@@ -81,7 +81,7 @@
 	<div class="heading">
 		<h1>アクセス</h1>
 	</div>
-	<img class="map" src="http://placehold.jp/800x400.png" alt="">
+	<img class="map" src=<?php echo get_template_directory_uri();?>/img/BG3.png alt="アクセス">
 </div>
 <div id="contact" class="container">
 	<h1>お問い合わせ</h1>
