@@ -7,27 +7,16 @@ Author: ryu-g,Yayoi
 Author URI:
 */
 
-/*web font ?????????/
-/* ?????font-family??x
+/*font-family*/
 @font-face {
   font-family: '?ǰ';
   src: url('?ե????ե??????ѥ?') format('?ե??`?ޥå??');
 }
 
-// ???x????font-family?????
 h1 {
   font-family: '?ǰ';
-} */
-
-div.container{
-	width: 100%;
-	max-width: 900px;
-	margin: 10px auto;
-	text-align: center;
-	overflow: hidden;
 }
 
-/*?????֥ե?????Rounded M????i??z?ߤ????*/
 @font-face{
   font-family: 'mplus-1p-regular';
   src: url('http://mplus-webfonts.sourceforge.jp/mplus-1p-regular.eot');
@@ -61,14 +50,11 @@ h1{
     padding: 10px;
 }
 
-
-
 h2{
   font-family:'mplus-1p-regular';
   font-size:18px;
   font-color:#333333;
 }
-
 
 h3{
   font-family:'mplus-1p-regular';
@@ -76,20 +62,18 @@ h3{
   font-color:#333333;
 }
 
-
 h4{
   font-family:'mplus-1p-regular';
   font-size:12px;
   font-color:#333333;
 }
 
+a:link { color: #ff7f00; }/*default
+a:visited { color: #ff7f00; } /*visited dlink*/
+a:hover { color: #ffba00; }/*hover*/
+a:active { color: #ffba00; }/*active*/
+a{text-decoration: none;} /*delete underline*/
 
-
-a:link { color: #ff7f00; }/* ?? δ????Υ???*/
-a:visited { color: #ff7f00; } /*?? ????g?ߤΥ???*/
-a:hover { color: #ffba00; }/* ?? ?ݥ????r?Υ???*/
-a:active { color: #ffba00; }/*??k??Υ???*/
-a{text-decoration: none;}
 header{
   background-color: #ff7f00;
   width:100%;
@@ -99,6 +83,14 @@ header{
 header > img{
 	height:40px;
 	margin-left: 20px;
+}
+
+div.container{
+	width: 100%;
+	max-width: 900px;
+	margin: 10px auto;
+	text-align: center;
+	overflow: hidden;
 }
 
 div#head{
@@ -205,8 +197,6 @@ div#contact{
 		margin-right: 10px;
 		margin-left:  20px;
 	}
-
-
 
 footer{
   background-color: #ff7f00;
