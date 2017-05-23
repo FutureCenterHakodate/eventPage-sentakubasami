@@ -108,6 +108,7 @@ div#head{
 }
 
 div#holdtime{
+	z-index: 1;
 	position: absolute;
 	right: 0px;
 	top:450px;
@@ -131,15 +132,20 @@ div#info{
 	width: 100%;
 }
 	.infoBG{
+
+		display: block;
 		position: relative;
 		min-width: 900px;
-		overflow: hidden;
 	}
 	.infoTable{
+		width: 550px;
+		height: 250px;
 		position: absolute;
-		top:150px;
-		right:0px;
-		left: 0px;
+		top: 0;
+		left: 0;
+		right: 0;
+		bottom: 0;
+		margin: auto;
 	}
 
 div#event{
