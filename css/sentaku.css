@@ -110,20 +110,23 @@ div#holdtime{
 div#about{
 	text-align: center;
 	padding: 50px 0;
+	color: #FFF;
 }
-	div#about > img{
+	div.aboutBG > img {
 		width: 100%;
 	}
 	div.aboutBG{
 		position: relative;
 	}
-	div#about > div.container{
+	div.aboutAbsolute{
 		position: absolute;
 		top: 0;
 		right: 0;
 		left:0;
 		bottom: 0;
 		margin: auto;
+		width: 600px;
+		height: 200px
 	}
 	div.readAbout{
 		width: 60%;
