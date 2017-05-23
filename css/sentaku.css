@@ -132,7 +132,6 @@ div#info{
 	width: 100%;
 }
 	.infoBG{
-
 		display: block;
 		position: relative;
 		min-width: 900px;
@@ -204,6 +203,7 @@ div#contact{
 	div.block > h3 {
 		width:90px;
 		margin-right: 10px;
+		margin-left:  20px;
 	}
 
 
