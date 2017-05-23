@@ -14,7 +14,7 @@ Author URI:
 }
 
 h1 {
-  font-family: '?ǰ';
+  font-family: '?ǰ	';
 }
 
 @font-face{
@@ -111,12 +111,23 @@ div#about{
 	text-align: center;
 	padding: 50px 0;
 }
-	div.readAbout{
-		width: 600px;
-		margin: 0 auto;
-	}
 	div#about > img{
 		width: 100%;
+	}
+	div.aboutBG{
+		position: relative;
+	}
+	div#about > div.container{
+		position: absolute;
+		top: 0;
+		right: 0;
+		left:0;
+		bottom: 0;
+		margin: auto;
+	}
+	div.readAbout{
+		width: 60%;
+		margin: 0 auto;
 	}
 
 
