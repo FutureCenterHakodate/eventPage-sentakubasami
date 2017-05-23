@@ -97,8 +97,8 @@ header{
   position: relative;
 }
 header > img{
-	width:50px;
-	height: auto;
+	height:40px;
+	margin-left: 20px;
 }
 
 div#head{

@@ -10,7 +10,7 @@
 
 <header>
 	<!-- ここにヘッダー用画像 -->
-	<img src=<?php echo get_template_directory_uri();?>/img/LogoFCH.png width="100px" height="auto" alt="">
+	<img src=<?php echo get_template_directory_uri();?>/img/LogoFCH.png alt="">
 </header>
 
 <!-- 要素ここから -->
