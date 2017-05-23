@@ -81,8 +81,10 @@ header{
   position: relative;
 }
 header > img{
+	display: block;
 	height:40px;
-	margin-left: 20px;
+	width: auto;
+	margin:0 auto;
 }
 
 div.container{
