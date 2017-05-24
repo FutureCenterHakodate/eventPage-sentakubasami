@@ -219,11 +219,11 @@ footer{
 	height:40px;
 }
 
-	small{
-		color: #fff;
-		display:inline-block;
-		font-size: 10px;
-		text-align: center;
-		width: 100%;
-		margin: 10px auto;
-	}
+small{
+	color: #fff;
+	display:inline-block;
+	font-size: 10px;
+	text-align: center;
+	width: 100%;
+	margin: 10px auto;
+}
