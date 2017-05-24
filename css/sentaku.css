@@ -67,7 +67,7 @@ h4{
   font-color:#333333;
 }
 
-a:link { color: #ff7f00; }/*default
+a:link { color: #ff7f00; }/*default*/
 a:visited { color: #ff7f00; } /*visited dlink*/
 a:hover { color: #ffba00; }/*hover*/
 a:active { color: #ffba00; }/*active*/
