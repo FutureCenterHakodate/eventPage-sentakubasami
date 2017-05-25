@@ -5,7 +5,7 @@ topBtn.hide();
  
 //◇ボタンの表示設定
 $(window).scroll(function(){
-  if($(this).scrollTop()>80){
+  if($(this).scrollTop()>120){
     //---- 画面を80pxスクロールしたら、ボタンを表示する
     topBtn.fadeIn();
   }else{
