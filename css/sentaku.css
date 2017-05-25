@@ -180,8 +180,9 @@ div#artist > p {
   padding-left:20px;
 }
 
-div#sample{
+div#sample >img {
   width:100%;
+  margin-top: -50px;
   padding-bottom:20px;
 }
 
@@ -271,7 +272,7 @@ div#contact{
 div#pageTop{
  position:fixed;
  bottom:20px;
-  right:20px; 
+  right:20px;
 
 }
 
