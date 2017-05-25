@@ -144,7 +144,7 @@
 		</div>
 		<div class="block">
 			<h3>WEBサイト</h3>
-			<p><a href="http://hakodate-miraiproject.jp">http://hakodate-miraiproject.jp</a></p>
+			<p><a href="http://hakodate-miraiproject.jp/FCH/">http://hakodate-miraiproject.jp</a></p>
 		</div>
 	</div>
 
