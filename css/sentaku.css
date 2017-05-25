@@ -124,7 +124,7 @@ div#holdtime{
 
 div#about{
 	text-align: center;
-	padding: 50px 0;
+	padding: 0px 0;
 	color: #FFF;
 }
 	div.aboutBG > img {
@@ -132,6 +132,7 @@ div#about{
 	}
 	div.aboutBG{
 		position: relative;
+    bottom:20px;
 	}
 	div.aboutAbsolute{
 		position: absolute;
