@@ -64,7 +64,7 @@
 					<p>日本、アメリカ、イギリス、マケドニア、インド、イスラエルなどさまざまな国からあつまった『せんたくばさみ』と、キャンプ場のような『テント』のある空間でなにをする？つくる？はさむ？つるす？ならべる？あつめる？かざる？</p>
 				</div>
 				<div class="block" id="artist">
-					<img src=<?php echo get_template_directory_uri();?>/img/joseph.jpg width="150px" alt="山添joseph勇">
+					<img src=<?php echo get_template_directory_uri();?>/img/joseph.jpg width="150px" height="150px"alt="山添joseph勇">
 					<p>山添joseph勇（美術家）<br/>
 					東京造形大学美術学科卒<br/>
 					群馬松嶺福祉短期大学　造形特任講師　2008〜2011<br/>
