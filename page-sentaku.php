@@ -30,7 +30,7 @@
 
 <div id="info" >
 	<div class="infoBG">
-		<img src =<?php echo get_template_directory_uri();?>/img/bg.png width="900px" text-align="center" alt="概要">
+		<img src =<?php echo get_template_directory_uri();?>/img/BG.png width="900px" text-align="center" alt="概要">
 			<div class="infoTable">
 				<div class="block">
 					<h3>会場</h3>
