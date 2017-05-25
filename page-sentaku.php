@@ -54,10 +54,10 @@
 <div id="about">
 	<div　class="container">
 		<div class="aboutBG">
-			<img src=<?php echo get_template_directory_uri();?>/img/BG2.jpg alt="企画概要BG">
+			<img src=<?php echo get_template_directory_uri();?>/img/TopAb.jpg alt="企画概要BG">
 			<div class="aboutAbsolute">
 				<div class="heading">
-					<h1>企画概要</h1>
+					<h1><font color="FFFFFF">企画概要</font></h1>
 				</div>
 				<div class="readAbout">
 					<p>日本、アメリカ、イギリス、マケドニア、インド、イスラエルなどさまざまな国からあつまった『せんたくばさみ』と、キャンプ場のような『テント』のある空間でなにをする？つくる？はさむ？つるす？ならべる？あつめる？かざる？</p>
