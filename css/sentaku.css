@@ -49,6 +49,20 @@ h1{
 	padding: 10px;
 }
 
+h1#abstract{
+  display: inline-block;
+  font-family:'mplus-1p-regular';
+  font-size:22px;
+  color:#333333;
+  text-align: center;
+  width: 140px;
+  height:20px;
+  border: 2px solid #FFFFFF;
+  border-radius: 200px 15px 185px 15px / 15px 200px 15px 185px;
+  margin: 10px 0;
+  padding: 10px;
+}
+
 h2{
   font-family:'mplus-1p-regular';
   font-size:18px;
@@ -130,10 +144,14 @@ div#about{
 		height: 200px
 	}
 	div.readAbout{
-		width: 60%;
+		width: 80%;
 		margin: 0 auto;
 	}
 
+div#sample{
+  width:100%;
+  padding-bottom:20px;
+}
 
 div#info{
 	width: 100%;
@@ -144,10 +162,10 @@ div#info{
 		min-width: 900px;
 	}
 	.infoTable{
-		width: 550px;
-		height: 250px;
+		width: 620px;
+		height: 270px;
 		position: absolute;
-		top: 0;
+		top: 20;
 		left: 0;
 		right: 0;
 		bottom: 0;
@@ -160,6 +178,7 @@ div#event{
 	div.EventBG{
 		position: relative;
 		min-width: 900px;
+
 	}
 
 	div.EVabsolute{

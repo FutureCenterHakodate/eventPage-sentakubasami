@@ -24,11 +24,11 @@
 </div>
 
 <div class="container">
-</div>
+
 
 <div id="info" >
 	<div class="infoBG">
-		<img src =<?php echo get_template_directory_uri();?>/img/bg.png width=100% alt="">
+		<img src =<?php echo get_template_directory_uri();?>/img/bg.png width="900px" text-align="center" alt="概要">
 			<div class="infoTable">
 				<div class="block">
 					<h3>会場</h3>
@@ -44,27 +44,34 @@
 				</div>
 				<div class="block">
 					<h3>休館日</h3>
-					<p>毎月第2水曜日<br>※期間中休館は6月14日(水),7月12日(水)です。</p>
+					<p>毎月第2水曜日<br>※期間中の休館日は6月14日(水),7月12日(水)です。</p>
 				</div>
 			</div>
 		</div>
 	</div>
-
+</div>
 <div id="about">
 	<div　class="container">
 		<div class="aboutBG">
 			<img src=<?php echo get_template_directory_uri();?>/img/TopAb.jpg alt="企画概要BG">
 			<div class="aboutAbsolute">
 				<div class="heading">
-					<h1><font color="FFFFFF">企画概要</font></h1>
+					<h1 id="abstract"><font color="FFFFFF">企画概要</font></h1>
 				</div>
 				<div class="readAbout">
 					<p>日本、アメリカ、イギリス、マケドニア、インド、イスラエルなどさまざまな国からあつまった『せんたくばさみ』と、キャンプ場のような『テント』のある空間でなにをする？つくる？はさむ？つるす？ならべる？あつめる？かざる？</p>
 				</div>
 			</div>
 		</div>
+
+			 <div id="sample">
+ 				<img src=<?php echo get_template_directory_uri();?>/img/SampleImages.jpg alt="サンプル画像">
+ 　　　　		</div>
+
 	</div>
 </div>
+
+
 
 <div id="event" >
 	<div class="container">
