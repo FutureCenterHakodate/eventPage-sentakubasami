@@ -130,10 +130,14 @@ div#about{
 	div.aboutBG > img {
 		width: 100%;
 	}
+
 	div.aboutBG{
+    text-align:center;
+    width:100%;
 		position: relative;
-    bottom:20px;
+    bottom:8px;
 	}
+
 	div.aboutAbsolute{
 		position: absolute;
 		top: 0;
@@ -179,12 +183,12 @@ div#event{
 	div.EventBG{
 		position: relative;
 		min-width: 900px;
-
+    bottom:70px;
 	}
 
 	div.EVabsolute{
 		position: absolute;
-		top:150px;
+		top:170px;
 		right:0;
 		left: 0;
 	}
