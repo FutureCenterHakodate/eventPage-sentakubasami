@@ -110,14 +110,17 @@
 		<div class="ACabsolute">
 			<div class="heading"><h1>アクセス</h1></div>
 			<div class="accessTable">
-				<h2>〒040-0063 函館市若松町20番1号 キラリス函館3F</h2>
+				<div class="block">
+					<h3>住所</h3>
+					<p>〒040-0063 函館市若松町20番1号<br>キラリス函館3F</p>
+				</div>
 				<div class="block">
 					<h3>バス</h3>
-					<p>「函館駅前」停留所から徒歩1分<br>「棒二森屋前」停留所から徒歩１分</p>
+					<p>｢函館駅前」停留所から徒歩1分<br>｢棒二森屋前｣停留所から徒歩１分</p>
 				</div>
 				<div class="block">
 					<h3>市電</h3>
-					<p>「函館駅前」電停から徒歩1分</p>
+					<p>｢函館駅前｣電停から徒歩1分</p>
 				</div>
 				<div class="block">
 					<h3>提携駐車場</h3>
