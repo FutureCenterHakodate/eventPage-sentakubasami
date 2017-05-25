@@ -86,7 +86,7 @@
 <div id="event" >
 	<div class="container">
 		<div class="EventBG">
-			<img src= <?php echo get_template_directory_uri(); ?>/img/EventBG.png width=100% alt="">
+			<img src= <?php echo get_template_directory_uri(); ?>/img/EventBG.png width=70% alt="イベントBG">
 			<div class="EVabsolute" >
 				<div class="heading"><h1>イベント</h1></div>
 				<div class="context">

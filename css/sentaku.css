@@ -210,12 +210,12 @@ div#event{
 	div.EventBG{
 		position: relative;
 		min-width: 900px;
-    bottom:70px;
+    top:10px;
 	}
 
 	div.EVabsolute{
 		position: absolute;
-		top:170px;
+		top:100px;
 		right:0;
 		left: 0;
 	}
