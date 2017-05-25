@@ -151,8 +151,9 @@
 </div>
 
 <!-- ページトップへのジャンプボタン -->
-<p id="pageTop"><a href="#"><img src=<?php echo get_template_directory_uri();?>/img/ToTop.png width="100px" alt="トップへ"><i class="fa fa-chevron-up"></i></a></p>
-
+<div id="pageTop" align="right">
+<p><a href="#"><img src=<?php echo get_template_directory_uri();?>/img/ToTop.png width="150px" alt="トップへ"><i class="fa fa-chevron-up"></i></a></p>
+</div>
 
 </body>
 <div id="footer" class="container"></div>

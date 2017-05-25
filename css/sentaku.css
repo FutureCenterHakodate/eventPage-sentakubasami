@@ -267,11 +267,11 @@ div#contact{
 		margin-left:  20px;
 	}
 
-p#pageTop{
-  position:absolute;
-  text-align:right;
-  margin-right:10px;
-  margin-bottom:10px;
+div#pageTop{
+ position:fixed;
+ bottom:20px;
+  right:20px; 
+
 }
 
 footer{
