@@ -99,6 +99,24 @@ header > img{
 	width: auto;
 	margin:0 auto;
 }
+body{
+  /*バックグラウンドを方眼紙に*/
+       background-color: #FFF;
+    /*min-height: 418px;*/
+    padding: 0px 10px 10px;
+    background-image:
+        -webkit-linear-gradient(
+            transparent 95%,
+            rgba(0, 144, 255, .2) 50%,
+            rgba(0, 144, 255, .2)),
+        -webkit-linear-gradient(
+            0deg, transparent 95%,
+            rgba(0, 144, 255, .2) 50%,
+            rgba(0, 144, 255, .2)
+            );
+    background-size: 20px 20px;
+    background-repeat: repeat;
+}
 
 div.container{
 	width: 100%;
@@ -111,7 +129,7 @@ div.container{
 div#head{
 	position: relative;
 	width: 900px;
-	height: 600px;
+	height: 500px;
 }
 
 div#holdtime{

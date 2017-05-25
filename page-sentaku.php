@@ -14,7 +14,7 @@
 </header>
 
 <!-- 要素ここから -->
-
+<body>
 <div id="head" class="container">
 	<img src=<?php echo get_template_directory_uri();?>/img/TopImg.jpg alt="mainvisual">
 </div>
@@ -148,6 +148,7 @@
 	</div>
 
 </div>
+</body>
 <div id="footer" class="container"></div>
 <!-- 要素ここまで -->
 
