@@ -130,6 +130,7 @@ div#head{
 	position: relative;
 	width: 900px;
 	height: 500px;
+
 }
 
 div#holdtime{
@@ -265,6 +266,13 @@ div#contact{
 		margin-right: 10px;
 		margin-left:  20px;
 	}
+
+p#pageTop{
+  position:absolute;
+  text-align:right;
+  margin-right:10px;
+  margin-bottom:10px;
+}
 
 footer{
 	background-color: #ff7f00;

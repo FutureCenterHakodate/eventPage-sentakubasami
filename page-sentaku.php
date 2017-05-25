@@ -6,6 +6,7 @@
 	<link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/3.18.1/build/cssreset/cssreset-min.css">
 	<link rel="stylesheet" type="text/css" href=<?php echo get_template_directory_uri();?>/css/sentaku.css>
 	<link rel="icon" href=<?php echo get_template_directory_uri();?>/img/favicon.ico>
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 </head>
 
 <header>
@@ -16,7 +17,7 @@
 <!-- 要素ここから -->
 <body>
 <div id="head" class="container">
-	<img src=<?php echo get_template_directory_uri();?>/img/TopImg.jpg alt="mainvisual">
+	<img src=<?php echo get_template_directory_uri();?>/img/TopImg.png alt="mainvisual">
 </div>
 
 <div id="holdtime" >
@@ -148,6 +149,11 @@
 	</div>
 
 </div>
+
+<!-- ページトップへのジャンプボタン -->
+<p id="pageTop"><a href="#"><img src=<?php echo get_template_directory_uri();?>/img/ToTop.png width="100px" alt="トップへ"><i class="fa fa-chevron-up"></i></a></p>
+
+
 </body>
 <div id="footer" class="container"></div>
 <!-- 要素ここまで -->
