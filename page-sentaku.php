@@ -11,7 +11,8 @@
 
 <header>
 	<!-- ここにヘッダー用画像 -->
-	<img src=<?php echo get_template_directory_uri();?>/img/LogoFCH.png alt="">
+	<a href="http://hakodate-miraiproject.jp">
+	<img src=<?php echo get_template_directory_uri();?>/img/LogoFCH.png alt=""></a>
 </header>
 
 <!-- 要素ここから -->
