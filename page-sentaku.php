@@ -128,7 +128,7 @@
 					<p>198台(最大)　タイムズ函館駅前</p>
 				</div>
 			</div>
-				<img class="map2" src=<?php echo get_template_directory_uri();?>/img/map.png width=80% alt="地図">
+				<img class="map2" src=<?php echo get_template_directory_uri();?>/img/map.png width=70% alt="地図">
 			</div>
 		</div>
 	</div>
