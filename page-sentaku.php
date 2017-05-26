@@ -92,7 +92,7 @@
 				<div class="heading"><h1>イベント</h1></div>
 					<h3>アーティストによる洗濯ばさみワークショップ開催！！</h3>
 				<div class="block">
-				<img src=<?php echo get_template_directory_uri();?>/img/joseph.jpg alt="山添joseph勇">
+				<img src=<?php echo get_template_directory_uri();?>/img/joseph.jpg width="50px" height="50px" alt="山添joseph勇">
 					<div>
 					<p>①27日(土) 13:00~14:00, 15:00~16:00, 17:00~18:00の3回実施</p>
 					<h2>講師：山添joseph勇 氏</h2>
@@ -100,7 +100,7 @@
 					</div>
 				</div>
 				<div class="block">
-				<img src=<?php echo get_template_directory_uri();?>/img/cabu.jpg alt="カブ">
+				<img src=<?php echo get_template_directory_uri();?>/img/cabu.jpg width="50px" height="50px" alt="カブ">
 					<div>
 					<p>②28日(日) 13:00~14:00 の1回実施</p>
 					<h2>講師：カブ 氏</h2>
