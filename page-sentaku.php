@@ -67,11 +67,13 @@
 				</div>
 				<div class="block" id="artist">
 					<img src=<?php echo get_template_directory_uri();?>/img/joseph.jpg width="150px" height="150px"alt="山添joseph勇">
-					<p>山添joseph勇（美術家）<br/>
-					東京造形大学美術学科卒<br/>
-					群馬松嶺福祉短期大学　造形特任講師　2008〜2011<br/>
-					和光大学表現学部芸術学科　非常勤講師　2015~2016<br/>
-					アートを基軸としたこども造形ワークショップの実施・企画・アイデア制作・普及や、 現代美術の作品制作などを活動とする。</p>
+					<p>山添joseph勇（美術家）<br>
+					東京造形大学美術学科卒<br>
+					深沢アート研究所（カブと山添によるアートユニット）<br>
+					アートを基軸としたこども造形ワークショップの実施・企
+					画・アイデア制作・普及や、 現代美術の作品制作などを活
+					動とする。<br>
+					深沢アート研究所HP <a href="http://www.hukalabo.com">http://www.hukalabo.com</a>
 				</div>
 			</div>
 		</div>

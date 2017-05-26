@@ -172,6 +172,13 @@ div#about{
 		width: 80%;
 		margin: 0 auto;
 	}
+	div.block >img{
+		margin:  0 10px;
+	}
+	div#sample >img {
+	  width:100%;
+	  margin-top: -15px;
+	  padding-bottom:20px;
 
 div#artist{
   padding-top:40px;
@@ -181,10 +188,6 @@ div#artist > p {
   padding-left:20px;
 }
 
-div#sample >img {
-  width:100%;
-  margin-top: -50px;
-  padding-bottom:20px;
 }
 
 div#info{
