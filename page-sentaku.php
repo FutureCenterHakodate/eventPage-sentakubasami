@@ -77,7 +77,7 @@
 		</div>
 	</div>
 			<div id="sample">
-				<img src=<?php echo get_template_directory_uri();?>/img/SampleImages.jpg alt="サンプル画像">
+				<img src=<?php echo get_template_directory_uri();?>/img/SampleImagesRe.jpg alt="サンプル画像">
 			</div>
 </div>
 
