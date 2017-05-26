@@ -102,7 +102,7 @@
 					</div>
 				</div>
 				<div class="block">
-				<img src=<?php echo get_template_directory_uri();?>/img/joseph.jpg alt="山添joseph勇">
+				<img src=<?php echo get_template_directory_uri();?>/img/cabu.jpg alt="カブ">
 					<div>
 					<p>②28日(日) 13:00~14:00 の1回実施</p>
 					<h2>講師：カブ 氏</h2>
