@@ -225,7 +225,7 @@ div#event{
 	}
 	div.EVabsolute > div.block{
 		width: 400px;
-		margin: 0 auto;
+		margin: 10px auto;
 	}
 	div.EVabsolute > div.block >img{
 		width: 50px;
