@@ -229,7 +229,7 @@ div#event{
 	}
 	div.EVabsolute > div.block >img{
 		width: 50px;
-		height: 50px;
+		height: auto;
 		margin: 0 20px;
 	}
 	div.EVabsolute > div.block >div{
