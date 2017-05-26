@@ -45,8 +45,9 @@ h1{
 	height:20px;
 	border: 2px solid #82636b;
 	border-radius: 200px 15px 185px 15px / 15px 200px 15px 185px;
-	margin: 10px 0;
-	padding: 10px;
+	margin-bottom: 10px;
+	padding: 5px 10px 10px;
+
 }
 
 h1#abstract{
