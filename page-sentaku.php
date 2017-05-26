@@ -75,16 +75,7 @@
 					動とする。<br>
 					深沢アート研究所HP <a href="http://www.hukalabo.com">http://www.hukalabo.com</a>
 				</div>
-				<div class="block" id="artist">
-					<img src=<?php echo get_template_directory_uri();?>/img/joseph.jpg width="120px" height="120px"alt="山添joseph勇">
-					<p>山添joseph勇（美術家）<br>
-					東京造形大学美術学科卒<br>
-					深沢アート研究所（カブと山添によるアートユニット）<br>
-					アートを基軸としたこども造形ワークショップの実施・企
-					画・アイデア制作・普及や、 現代美術の作品制作などを活
-					動とする。<br>
-					深沢アート研究所HP <a href="http://www.hukalabo.com">http://www.hukalabo.com</a>
-				</div>
+
 			</div>
 		</div>
 	</div>
@@ -101,15 +92,23 @@
 			<img src= <?php echo get_template_directory_uri(); ?>/img/EventBG.png width=70% alt="イベントBG">
 			<div class="EVabsolute" >
 				<div class="heading"><h1>イベント</h1></div>
-				<div class="context">
 					<h3>アーティストによる洗濯ばさみワークショップ開催！！</h3>
+				<div class="block">
+				<img src=<?php echo get_template_directory_uri();?>/img/joseph.jpg alt="山添joseph勇">
+					<div>
 					<p>①27日(土) 13:00~14:00, 15:00~16:00, 17:00~18:00の3回実施</p>
 					<h2>講師：山添joseph勇 氏</h2>
 					<p>参加費無料(入館料のみ),申込不要</p>
+					</div>
+				</div>
+				<div class="block">
+				<img src=<?php echo get_template_directory_uri();?>/img/joseph.jpg alt="山添joseph勇">
+					<div>
 					<p>②28日(日) 13:00~14:00 の1回実施</p>
 					<h2>講師：カブ 氏</h2>
 					<p>参加費無料(入館料のみ),申込不要</p>
 					<p>※そのほか、展示期間中は洗濯ばさみで遊べます。</p>
+					</div>
 				</div>
 			</div>
 		</div>

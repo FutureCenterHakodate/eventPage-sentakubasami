@@ -149,6 +149,7 @@ div#about{
 }
 	div.aboutBG > img {
 		width: 100%;
+		min-width: 1000px;
 	}
 
 	div.aboutBG{
@@ -164,7 +165,7 @@ div#about{
 		right: 0;
 		left:0;
 		bottom:200px;
-		margin:20px  auto;
+		margin:100px  auto;
 		width: 800px;
 		height: 100px
 	}
@@ -221,6 +222,18 @@ div#event{
 		top:100px;
 		right:0;
 		left: 0;
+	}
+	div.EVabsolute > div.block{
+		width: 400px;
+		margin: 0 auto;
+	}
+	div.EVabsolute > div.block >img{
+		width: 50px;
+		height: 50px;
+		margin: 0 20px;
+	}
+	div.EVabsolute > div.block >div{
+	text-align: left;
 	}
 
 div#access {
