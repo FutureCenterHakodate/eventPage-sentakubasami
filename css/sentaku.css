@@ -164,9 +164,9 @@ div#about{
 		right: 0;
 		left:0;
 		bottom:200px;
-		margin: auto;
-		width: 600px;
-		height: 200px
+		margin:50px  auto;
+		width: 800px;
+		height: 100px
 	}
 	div.readAbout{
 		width: 80%;
@@ -176,9 +176,9 @@ div#about{
 		margin:  0 10px;
 	}
 	div#sample >img {
-	  width:100%;
-	  margin-top: -15px;
-	  padding-bottom:20px;
+	width:100%;
+	margin-top: -15px;
+	padding-bottom:20px;
 
 div#artist{
   padding-top:40px;

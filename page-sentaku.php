@@ -66,7 +66,17 @@
 					<p>日本、アメリカ、イギリス、マケドニア、インド、イスラエルなどさまざまな国からあつまった『せんたくばさみ』と、キャンプ場のような『テント』のある空間でなにをする？つくる？はさむ？つるす？ならべる？あつめる？かざる？</p>
 				</div>
 				<div class="block" id="artist">
-					<img src=<?php echo get_template_directory_uri();?>/img/joseph.jpg width="150px" height="150px"alt="山添joseph勇">
+					<img src=<?php echo get_template_directory_uri();?>/img/joseph.jpg width="120px" height="120px"alt="山添joseph勇">
+					<p>山添joseph勇（美術家）<br>
+					東京造形大学美術学科卒<br>
+					深沢アート研究所（カブと山添によるアートユニット）<br>
+					アートを基軸としたこども造形ワークショップの実施・企
+					画・アイデア制作・普及や、 現代美術の作品制作などを活
+					動とする。<br>
+					深沢アート研究所HP <a href="http://www.hukalabo.com">http://www.hukalabo.com</a>
+				</div>
+				<div class="block" id="artist">
+					<img src=<?php echo get_template_directory_uri();?>/img/joseph.jpg width="120px" height="120px"alt="山添joseph勇">
 					<p>山添joseph勇（美術家）<br>
 					東京造形大学美術学科卒<br>
 					深沢アート研究所（カブと山添によるアートユニット）<br>
