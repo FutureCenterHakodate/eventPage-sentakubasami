@@ -8,6 +8,7 @@
 	<link rel="stylesheet" type="text/css" href=<?php echo get_template_directory_uri();?>/css/sentaku.css>
 	<link rel="icon" href=<?php echo get_template_directory_uri();?>/img/favicon.ico>
 	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+	<link rel="stylesheet" href="http://mplus-webfonts.sourceforge.jp/mplus_webfonts.css">
 </head>
 
 <header>
