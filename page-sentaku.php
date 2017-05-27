@@ -178,14 +178,14 @@
 </footer>
 
 <?php
-	$filename = 'counter.dat';　// counter.datというカウント数を書き込むテキストファイル
+	$filename = 'counter.dat';// counter.datというカウント数を書き込むテキストファイル
 	?>
 <?php
-	$fp = fopen($filename, "r+");　// counter.datファイルを fopenで開く
+	$fp = fopen($filename, "r+"); // counter.datファイルを fopenで開く
  ?>
 
 <?php
-	$count = fgets($fp,32);　// fgets関数でcounter.datに書かれたカウント数を読み込む
+	$count = fgets($fp,32); // fgets関数でcounter.datに書かれたカウント数を読み込む
 ?>
 <?php
 	$count++; // counter.datに書かれたカウント数を加算
@@ -203,9 +203,9 @@
 	fclose($fp); // fclose関数でファイルを閉じる
  ?>
 <?php
-	echo "<p>このページは";
+	echo "<!--accessed ";
 	echo $count;
-	echo "回開かれました</p>";// カウントされた数字を表示
+	echo " -->";// カウントされた数字を表示
  ?>
 
 </html>
