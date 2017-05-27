@@ -176,4 +176,36 @@
 <footer>
 	<small>&copy;2017 Hakodate Mirai Project</small>
 </footer>
+
+<?php
+	$filename = 'counter.dat';　// counter.datというカウント数を書き込むテキストファイル
+	?>
+<?php
+	$fp = fopen($filename, "r+");　// counter.datファイルを fopenで開く
+ ?>
+
+<?php
+	$count = fgets($fp,32);　// fgets関数でcounter.datに書かれたカウント数を読み込む
+?>
+<?php
+	$count++; // counter.datに書かれたカウント数を加算
+ ?>
+<?php
+	fseek($fp, 0); // fseek関数でcounter.datの読み書きを行う場所を先頭に戻す
+ ?>
+<?php
+	fputs($fp, $count); // fputs関数でカウントされた数をファイルに書き込む
+ ?>
+<?php
+	flock($fp, LOCK_UN); // flock関数でファイルを上書きされないようにロックする
+ ?>
+<?php
+	fclose($fp); // fclose関数でファイルを閉じる
+ ?>
+<?php
+	echo "<p>このページは";
+	echo $count;
+	echo "回開かれました</p>";// カウントされた数字を表示
+ ?>
+
 </html>
