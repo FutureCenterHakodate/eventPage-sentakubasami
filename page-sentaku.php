@@ -91,10 +91,11 @@
 			<div class="EVabsolute" >
 				<div class="heading"><h1>イベント</h1></div>
 					<h3>アーティストによる洗濯ばさみワークショップ開催！！</h3>
+					<small style="color:red;">各イベントは終了しました。ご参加ありがとうございました。</small>
 				<div class="block">
 				<img src=<?php echo get_template_directory_uri();?>/img/joseph.jpg  alt="山添joseph勇">
 					<div>
-					<p>①27日(土) 13:00~14:00, 15:00~16:00, 17:00~18:00の3回実施</p>
+					<p>5/27日(土) 13:00~14:00, 15:00~16:00, 17:00~18:00の3回実施</p>
 					<h2>講師：山添joseph勇 氏</h2>
 					<p>参加費無料(入館料のみ),申込不要</p>
 					</div>
@@ -102,7 +103,7 @@
 				<div class="block">
 				<img src=<?php echo get_template_directory_uri();?>/img/cabu.jpg alt="カブ" >
 					<div>
-					<p>②28日(日) 13:00~14:00 の1回実施</p>
+					<p>5/28日(日) 13:00~14:00 の1回実施</p>
 					<h2>講師：カブ 氏</h2>
 					<p>参加費無料(入館料のみ),申込不要</p>
 					<p>※そのほか、展示期間中は洗濯ばさみで遊べます。</p>
