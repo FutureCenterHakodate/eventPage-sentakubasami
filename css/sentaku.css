@@ -66,19 +66,16 @@ h1#abstract{
 h2{
   font-family:'mplus-1p-regular';
   font-size:18px;
-  font-color:#333333;
 }
 
 h3{
   font-family:'mplus-1p-regular';
   font-size:16px;
-  font-color:#333333;
 }
 
 h4{
   font-family:'mplus-1p-regular';
   font-size:12px;
-  font-color:#333333;
 }
 
 a:link { color: #ff7f00; }/*default*/
@@ -233,6 +230,9 @@ div#event{
 	}
 	div.EVabsolute > div.block >div{
 	text-align: left;
+	}
+	div.EVabsolute > *{
+		color: #bbb;
 	}
 
 div#access {
