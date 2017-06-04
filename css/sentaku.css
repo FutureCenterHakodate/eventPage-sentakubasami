@@ -78,14 +78,14 @@ h4{
   font-size:12px;
 }
 
-a:link { color: #ff7f00; }/*default*/
-a:visited { color: #ff7f00; } /*visited dlink*/
+a:link { color: #f39800; }/*default*/
+a:visited { color: #f39800; } /*visited dlink*/
 a:hover { color: #ffba00; }/*hover*/
 a:active { color: #ffba00; }/*active*/
 a{text-decoration: none;} /*delete underline*/
 
 header{
-	background-color: #ff7f00;
+	background-color: #f39800;
 	width:100%;
 	height:50px;
 	position: relative;
@@ -291,7 +291,7 @@ div#pageTop{
 }
 
 footer{
-	background-color: #ff7f00;
+	background-color: #f39800;
 	width: 100%;
 	height: 40px;
 }
