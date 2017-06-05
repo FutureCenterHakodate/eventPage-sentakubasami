@@ -2,7 +2,7 @@
 <html lang="ja">
 <head>
 	<meta charset="UTF-8">
-	<title><?php wp_title("はこだてみらい館 |",true);?></title>
+	<title><?php wp_title("- はこだてみらい館",true,'right');?></title>
 	<link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/3.18.1/build/cssreset/cssreset-min.css">
 	<link rel="stylesheet" type="text/css" href=<?php echo get_template_directory_uri();?>/css/sentaku.css>
 	<link rel="icon" href=<?php echo get_template_directory_uri();?>/img/favicon.ico>
