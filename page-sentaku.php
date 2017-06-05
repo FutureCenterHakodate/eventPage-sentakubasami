@@ -171,12 +171,11 @@
 </div>
 
 </body>
-<div id="footer" class="container"></div>
-<!-- 要素ここまで -->
-
-<footer>
+<div id="footer">
 	<small>&copy;2017 Hakodate Mirai Project</small>
-</footer>
+</div>
+
+<!-- 要素ここまで -->
 
 <?php
 	$filename = 'counter.dat';// counter.datというカウント数を書き込むテキストファイル
